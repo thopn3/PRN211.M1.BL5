@@ -1,0 +1,15 @@
+D:\Code demo\PRN211\Module1_CSharp_Language\Topic2_OOP\bin\Debug\net6.0\Topic2_OOP.exe
+D:\Code demo\PRN211\Module1_CSharp_Language\Topic2_OOP\bin\Debug\net6.0\Topic2_OOP.deps.json
+D:\Code demo\PRN211\Module1_CSharp_Language\Topic2_OOP\bin\Debug\net6.0\Topic2_OOP.runtimeconfig.json
+D:\Code demo\PRN211\Module1_CSharp_Language\Topic2_OOP\bin\Debug\net6.0\Topic2_OOP.dll
+D:\Code demo\PRN211\Module1_CSharp_Language\Topic2_OOP\bin\Debug\net6.0\Topic2_OOP.pdb
+D:\Code demo\PRN211\Module1_CSharp_Language\Topic2_OOP\obj\Debug\net6.0\Topic2_OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code demo\PRN211\Module1_CSharp_Language\Topic2_OOP\obj\Debug\net6.0\Topic2_OOP.AssemblyInfoInputs.cache
+D:\Code demo\PRN211\Module1_CSharp_Language\Topic2_OOP\obj\Debug\net6.0\Topic2_OOP.AssemblyInfo.cs
+D:\Code demo\PRN211\Module1_CSharp_Language\Topic2_OOP\obj\Debug\net6.0\Topic2_OOP.csproj.CoreCompileInputs.cache
+D:\Code demo\PRN211\Module1_CSharp_Language\Topic2_OOP\obj\Debug\net6.0\Topic2_OOP.sourcelink.json
+D:\Code demo\PRN211\Module1_CSharp_Language\Topic2_OOP\obj\Debug\net6.0\Topic2_OOP.dll
+D:\Code demo\PRN211\Module1_CSharp_Language\Topic2_OOP\obj\Debug\net6.0\refint\Topic2_OOP.dll
+D:\Code demo\PRN211\Module1_CSharp_Language\Topic2_OOP\obj\Debug\net6.0\Topic2_OOP.pdb
+D:\Code demo\PRN211\Module1_CSharp_Language\Topic2_OOP\obj\Debug\net6.0\Topic2_OOP.genruntimeconfig.cache
+D:\Code demo\PRN211\Module1_CSharp_Language\Topic2_OOP\obj\Debug\net6.0\ref\Topic2_OOP.dll

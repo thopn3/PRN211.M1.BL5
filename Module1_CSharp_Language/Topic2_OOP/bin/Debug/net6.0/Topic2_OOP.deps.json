@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Topic2_OOP/1.0.0": {
+        "runtime": {
+          "Topic2_OOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Topic2_OOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

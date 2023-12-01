@@ -1,0 +1,14 @@
+D:\Code demo\PRN211\Module1_CSharp_Language\Topic1_CSharp_NewFeature\bin\Debug\net6.0\Topic1_CSharp_NewFeature.exe
+D:\Code demo\PRN211\Module1_CSharp_Language\Topic1_CSharp_NewFeature\bin\Debug\net6.0\Topic1_CSharp_NewFeature.deps.json
+D:\Code demo\PRN211\Module1_CSharp_Language\Topic1_CSharp_NewFeature\bin\Debug\net6.0\Topic1_CSharp_NewFeature.runtimeconfig.json
+D:\Code demo\PRN211\Module1_CSharp_Language\Topic1_CSharp_NewFeature\bin\Debug\net6.0\Topic1_CSharp_NewFeature.dll
+D:\Code demo\PRN211\Module1_CSharp_Language\Topic1_CSharp_NewFeature\bin\Debug\net6.0\Topic1_CSharp_NewFeature.pdb
+D:\Code demo\PRN211\Module1_CSharp_Language\Topic1_CSharp_NewFeature\obj\Debug\net6.0\Topic1_CSharp_NewFeature.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code demo\PRN211\Module1_CSharp_Language\Topic1_CSharp_NewFeature\obj\Debug\net6.0\Topic1_CSharp_NewFeature.AssemblyInfoInputs.cache
+D:\Code demo\PRN211\Module1_CSharp_Language\Topic1_CSharp_NewFeature\obj\Debug\net6.0\Topic1_CSharp_NewFeature.AssemblyInfo.cs
+D:\Code demo\PRN211\Module1_CSharp_Language\Topic1_CSharp_NewFeature\obj\Debug\net6.0\Topic1_CSharp_NewFeature.csproj.CoreCompileInputs.cache
+D:\Code demo\PRN211\Module1_CSharp_Language\Topic1_CSharp_NewFeature\obj\Debug\net6.0\Topic1_CSharp_NewFeature.dll
+D:\Code demo\PRN211\Module1_CSharp_Language\Topic1_CSharp_NewFeature\obj\Debug\net6.0\refint\Topic1_CSharp_NewFeature.dll
+D:\Code demo\PRN211\Module1_CSharp_Language\Topic1_CSharp_NewFeature\obj\Debug\net6.0\Topic1_CSharp_NewFeature.pdb
+D:\Code demo\PRN211\Module1_CSharp_Language\Topic1_CSharp_NewFeature\obj\Debug\net6.0\Topic1_CSharp_NewFeature.genruntimeconfig.cache
+D:\Code demo\PRN211\Module1_CSharp_Language\Topic1_CSharp_NewFeature\obj\Debug\net6.0\ref\Topic1_CSharp_NewFeature.dll
