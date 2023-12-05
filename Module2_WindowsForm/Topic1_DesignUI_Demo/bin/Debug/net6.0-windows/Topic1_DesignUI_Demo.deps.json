@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Topic1_DesignUI_Demo/1.0.0": {
+        "runtime": {
+          "Topic1_DesignUI_Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Topic1_DesignUI_Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

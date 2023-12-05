@@ -1,0 +1,17 @@
+D:\Code demo\PRN211\Module2_WindowsForm\Topic1_DesignUI_Demo\bin\Debug\net6.0-windows\Topic1_DesignUI_Demo.exe
+D:\Code demo\PRN211\Module2_WindowsForm\Topic1_DesignUI_Demo\bin\Debug\net6.0-windows\Topic1_DesignUI_Demo.deps.json
+D:\Code demo\PRN211\Module2_WindowsForm\Topic1_DesignUI_Demo\bin\Debug\net6.0-windows\Topic1_DesignUI_Demo.runtimeconfig.json
+D:\Code demo\PRN211\Module2_WindowsForm\Topic1_DesignUI_Demo\bin\Debug\net6.0-windows\Topic1_DesignUI_Demo.dll
+D:\Code demo\PRN211\Module2_WindowsForm\Topic1_DesignUI_Demo\bin\Debug\net6.0-windows\Topic1_DesignUI_Demo.pdb
+D:\Code demo\PRN211\Module2_WindowsForm\Topic1_DesignUI_Demo\obj\Debug\net6.0-windows\Topic1_DesignUI_Demo.csproj.GenerateResource.cache
+D:\Code demo\PRN211\Module2_WindowsForm\Topic1_DesignUI_Demo\obj\Debug\net6.0-windows\Topic1_DesignUI_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code demo\PRN211\Module2_WindowsForm\Topic1_DesignUI_Demo\obj\Debug\net6.0-windows\Topic1_DesignUI_Demo.AssemblyInfoInputs.cache
+D:\Code demo\PRN211\Module2_WindowsForm\Topic1_DesignUI_Demo\obj\Debug\net6.0-windows\Topic1_DesignUI_Demo.AssemblyInfo.cs
+D:\Code demo\PRN211\Module2_WindowsForm\Topic1_DesignUI_Demo\obj\Debug\net6.0-windows\Topic1_DesignUI_Demo.csproj.CoreCompileInputs.cache
+D:\Code demo\PRN211\Module2_WindowsForm\Topic1_DesignUI_Demo\obj\Debug\net6.0-windows\Topic1_DesignUI_Demo.sourcelink.json
+D:\Code demo\PRN211\Module2_WindowsForm\Topic1_DesignUI_Demo\obj\Debug\net6.0-windows\Topic1_DesignUI_Demo.dll
+D:\Code demo\PRN211\Module2_WindowsForm\Topic1_DesignUI_Demo\obj\Debug\net6.0-windows\refint\Topic1_DesignUI_Demo.dll
+D:\Code demo\PRN211\Module2_WindowsForm\Topic1_DesignUI_Demo\obj\Debug\net6.0-windows\Topic1_DesignUI_Demo.pdb
+D:\Code demo\PRN211\Module2_WindowsForm\Topic1_DesignUI_Demo\obj\Debug\net6.0-windows\Topic1_DesignUI_Demo.genruntimeconfig.cache
+D:\Code demo\PRN211\Module2_WindowsForm\Topic1_DesignUI_Demo\obj\Debug\net6.0-windows\ref\Topic1_DesignUI_Demo.dll
+D:\Code demo\PRN211\Module2_WindowsForm\Topic1_DesignUI_Demo\obj\Debug\net6.0-windows\Topic1_DesignUI_Demo.FrmLogin.resources
