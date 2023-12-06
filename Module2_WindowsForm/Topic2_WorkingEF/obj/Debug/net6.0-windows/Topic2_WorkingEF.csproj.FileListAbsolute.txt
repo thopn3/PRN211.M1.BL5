@@ -47,3 +47,13 @@ D:\Code demo\PRN211\Module2_WindowsForm\Topic2_WorkingEF\obj\Debug\net6.0-window
 D:\Code demo\PRN211\Module2_WindowsForm\Topic2_WorkingEF\obj\Debug\net6.0-windows\Topic2_WorkingEF.pdb
 D:\Code demo\PRN211\Module2_WindowsForm\Topic2_WorkingEF\obj\Debug\net6.0-windows\Topic2_WorkingEF.genruntimeconfig.cache
 D:\Code demo\PRN211\Module2_WindowsForm\Topic2_WorkingEF\obj\Debug\net6.0-windows\ref\Topic2_WorkingEF.dll
+D:\Code demo\PRN211\Module2_WindowsForm\Topic2_WorkingEF\bin\Debug\net6.0-windows\appsettings.json
+D:\Code demo\PRN211\Module2_WindowsForm\Topic2_WorkingEF\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Code demo\PRN211\Module2_WindowsForm\Topic2_WorkingEF\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Code demo\PRN211\Module2_WindowsForm\Topic2_WorkingEF\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Code demo\PRN211\Module2_WindowsForm\Topic2_WorkingEF\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Code demo\PRN211\Module2_WindowsForm\Topic2_WorkingEF\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Code demo\PRN211\Module2_WindowsForm\Topic2_WorkingEF\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Code demo\PRN211\Module2_WindowsForm\Topic2_WorkingEF\obj\Debug\net6.0-windows\Topic2_WorkingEF.FrmMovies.resources
+D:\Code demo\PRN211\Module2_WindowsForm\Topic2_WorkingEF\obj\Debug\net6.0-windows\Topic2_WorkingEF.csproj.GenerateResource.cache
+D:\Code demo\PRN211\Module2_WindowsForm\Topic2_WorkingEF\obj\Debug\net6.0-windows\Topic2_WorkingEF.FrmUpdate.resources
