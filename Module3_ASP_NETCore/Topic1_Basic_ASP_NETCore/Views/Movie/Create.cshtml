@@ -1,0 +1,40 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using Topic1_Basic_ASP_NETCore.Models
+@model Topic1_Basic_ASP_NETCore.Models.Movie
+
+
+<h1>Create a new Movie</h1>
+@{
+    if (TempData["msg_error"] != null)
+    {
+        <label style="color:red">@TempData["msg_error"]</label>
+    }
+}
+<form asp-controller="Movie" asp-action="Create">
+    <label>Movie ID: </label>
+    <input asp-for="Id"/>
+    <span asp-validation-for="Id" style="color:red"></span>
+    <br />
+
+    <label>Title: </label>
+    <input asp-for="Title" />
+    <span asp-validation-for="Title" style="color:red"></span>
+    <br />
+
+    <label>Description</label>
+    <textarea rows="5" cols="20" asp-for="Description"></textarea>
+    <br/>
+    <label>Genre</label>
+    @{
+        List<Genre> genres = (List<Genre>)ViewBag.Genres;
+        <span>Genres: </span>
+        <select>
+            @foreach (var item in genres)
+            {
+                <option value="@item.Id">@item.Name</option>
+            }
+        </select>
+    }
+    <br />
+    <input type="submit" value="Add" />
+</form>

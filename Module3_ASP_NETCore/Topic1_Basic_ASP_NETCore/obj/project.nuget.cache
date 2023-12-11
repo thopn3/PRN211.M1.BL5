@@ -4,12 +4,5 @@
   "success": true,
   "projectFilePath": "D:\\Code demo\\PRN211\\Module3_ASP_NETCore\\Topic1_Basic_ASP_NETCore\\Topic1_Basic_ASP_NETCore.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: The download of 'https://api.nuget.org/v3/vulnerabilities/vulnerability.base.json' timed out because no data was received for 60000ms."
-    }
-  ]
+  "logs": []
 }

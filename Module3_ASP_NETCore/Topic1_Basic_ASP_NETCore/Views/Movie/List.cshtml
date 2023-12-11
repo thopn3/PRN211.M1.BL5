@@ -2,6 +2,19 @@
 @using Topic1_Basic_ASP_NETCore.Models
 
 <h2>List of Movies</h2>
+
+@{
+    List<Genre> genres = (List<Genre>)ViewBag.Genres;
+    <span>Genres: </span>
+    <select>
+        @foreach (var item in genres)
+        {
+            <option value="@item.Id">@item.Name</option>
+        }
+    </select>
+}
+
+
 <table border="1">
     <thead>
         <tr>
