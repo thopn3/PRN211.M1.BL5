@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Topic1_Basic_ASP_NETCore.props" />
+</Project>

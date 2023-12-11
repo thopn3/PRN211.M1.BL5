@@ -1,0 +1,25 @@
+﻿@* Hiển thị thông tin từ Controller trả về *@
+@using Topic1_Basic_ASP_NETCore.Models
+
+<h2>List of Movies</h2>
+<table border="1">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            foreach (Movie movie in Model)
+            {
+                <tr>
+                    <td>@movie.Id</td>
+                    <td>@movie.Title</td>
+                    <td>@movie.Description</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
