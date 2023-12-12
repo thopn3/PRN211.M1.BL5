@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Topic2_WorkingEF.props" />
+</Project>

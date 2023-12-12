@@ -1,0 +1,54 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using Topic2_WorkingEF.Models
+<h1 style="text-align:center">List of Movies</h1>
+
+<div style="margin:10px auto; width:80%">
+    <p>
+        <a asp-controller="Movie" asp-action="Create">Add new a Movie</a>
+    </p>
+    <table border="1" style="width:100%">
+        <thead>
+            <tr>
+                <th>Movie Id</th>
+                <th>Title</th>
+                <th>Year</th>
+                <th>Description</th>
+                <th>Genres</th>
+                <th>Director</th>
+                <th colspan="2">Functions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                foreach (Movie movie in Model)
+                {
+                    <tr>
+                        <td>@movie.Id</td>
+                        <td>@movie.Title</td>
+                        <td>@movie.Year</td>
+                        <td>@movie.Description</td>
+                        <td>
+                            @{
+                                var genres = movie.Genres;
+                                foreach (var g in genres)
+                                {
+                                    <span>@g.Title </span>
+
+                                    <br />
+                                }
+                            }
+                        </td>
+                        <td>@movie.Director.Name</td>
+                        <td>
+                            <a asp-controller="Movie" asp-action="Edit" asp-route-id="@movie.Id">Edit</a>
+                        </td>
+                        <td>
+                            <a asp-controller="Movie" asp-action="Delete" asp-route-id="@movie.Id">Delete</a>
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
+

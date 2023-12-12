@@ -1,0 +1,40 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using Topic2_WorkingEF.Models
+@model Topic2_WorkingEF.Models.Movie
+
+<style>
+    label{
+        width: 120px;
+        margin-bottom: 5px;
+        display:inline-block;
+    }
+</style>
+
+<div style="margin:0px auto; width:80%">
+    <h2 style="text-align:center">Create a new Movie</h2>
+    <form asp-action="Create" asp-controller="Movie">
+        <label>Title (*)</label>
+        <input asp-for="Title"/>
+        <span asp-validation-for="Title"></span> <br/>
+
+        <label>Year</label>
+        <input asp-for="Year"/><br/>
+
+        <label>Description</label>
+        <textarea cols="10" rows="5" asp-for="Description"></textarea><br/>
+
+        <label>Director</label>
+        <select asp-for="DirectorId" asp-items="@ViewBag.Directors"></select><br/>
+
+        <label>Genres: </label>
+        @{
+            foreach(Genre genre in ViewBag.Genres)
+            {
+                <input type="checkbox" asp-for="Genres" value="@genre.Id"/> @genre.Title  
+            }
+        }
+        <br/>
+        <label></label>
+        <input type="submit" value="Add new"/>
+    </form>
+</div>
